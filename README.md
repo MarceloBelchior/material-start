@@ -108,13 +108,11 @@ installed.
 
 Clone this repository and execute the following commands in a terminal:
 
-* `git checkout es6`
-* `npm install jspm live-server -g`
-* `jspm update`
-* `live-server --open=app`
+* `git checkout master`
+* `npm install`
+* `npm run serve`
 
-> **Note:** You should use a web-server (like live-server above) to view your app in the browser. Open
-  the dev console to see any warnings and browse the elements.
+> **Note:** Open the dev console to see any warnings and browse the elements.
 
 ###### Layout
 
